@@ -13,5 +13,5 @@ x += (right - left) * velocidade;
 
 if fire{
 	//show_debug_message("piu");
-	instance_create_layer(x, y - sprite_height/2, "Tiros", obj_tiro_player);
+	instance_create_layer(x, y - sprite_height/3, "Tiros", obj_tiro_player);
 }
