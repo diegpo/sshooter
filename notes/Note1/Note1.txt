@@ -2,6 +2,7 @@
 	1.1 - Importando as sprites do player - OK
 	1.2 - Criando o objeto do player e configurado sua sprit - OK
 	1.3 - Movendo o player com o WASD dentro do SPEP, sem usar evento keyboard - OK
+	1.4 - Melhorando o código de movimentação - OK
 	
 2 - Ajustando as dimensões da room e ajustando a view e viewport
 	2.1 - Criar viewport e camera para o jogo - OK
