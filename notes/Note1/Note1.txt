@@ -28,3 +28,5 @@
 	5.3 - Fazendo o tiro ir para baixo - OK
 	5.4 - Atirando - OK
 	5.5 - Dando efeito no tiro - OK
+
+(Criação de métodos)
