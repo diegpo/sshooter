@@ -30,3 +30,7 @@
 	5.5 - Dando efeito no tiro - OK
 
 (Criação de métodos)
+
+6 - Fazendo o tiro do player acertar o inimigo
+	6.1 - Se destruir ao acertar o inimigo - OK
+	6.2 - Criar o impacto do tiro do player - 
