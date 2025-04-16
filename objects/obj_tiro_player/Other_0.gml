@@ -3,3 +3,4 @@
 
 //Destruir em específico no tiro atual, que colide ou sai da tela
 instance_destroy(id, false);
+

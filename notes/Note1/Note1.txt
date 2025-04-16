@@ -40,3 +40,10 @@
 7 - Fazendo o tiro do inimigo acertar o player e ser destruído
 	7.1 - Destruindo o tiro do inimigo ao sair da room - OK
 	
+8 - Destruido o inimigo quando ele levar um tiro
+	8.1 - Fazer o tiro do player também destruir o inimigo que colidir com ele - OK
+	8.2 - Fazer com que ao ser destruido o inimigo crie uma explosão - OK
+		8.2.1 - Criar a sprite da explosão - OK
+		8.2.2 - Criar o objeto da explosão - OK
+		8.2.3 - Fazer o inimigo instanciar a explosão ao morrer - OK
+		8.2.4 - Fazer a explosão se destruir no final da animação - OK
