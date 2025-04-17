@@ -48,5 +48,23 @@
 		8.2.3 - Fazer o inimigo instanciar a explosão ao morrer - OK
 		8.2.4 - Fazer a explosão se destruir no final da animação - OK
 		
-9 - Pequenos ajustes para 1
+9 - Pequenos ajustes parte 1
 	9.1 - Fazendo o inimigo ao sair da tela - OK
+	9.2 - Deixando o background melhor - OK
+	9.3 - Deixando o tiro mais bonito - OK
+		9.3.1 - Criar a sprite do brilho - OK
+		9.3.2 - Criar a draw do event - OK
+		9.3.3 - Se desenhar - OK
+		9.3.4 - Desenhar o brilho - OK
+		9.4.5 - Alterar como a gpu processa a mistura de imagens - OK
+		9.3.6 - Criar a variável cores - OK
+		9.3.7 - Usar o lerp para diminuir o tamanho - OK
+	9.4 - Deixando as explosões mais bonitas - 
+		9.4.1 - Criar o draw event - OK
+		9.4.2 - Se desenhar - OK
+		9.4.3 - Me desenhar um pouco maior - OK
+		9.4.4 - Alterar como a gpu processa a mistura de cores - OK
+		9.4.5 - Criar a variável de cores - OK
+	
+10 - Criando o background do nosso jogo - OK
+
