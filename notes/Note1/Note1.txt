@@ -47,3 +47,6 @@
 		8.2.2 - Criar o objeto da explosão - OK
 		8.2.3 - Fazer o inimigo instanciar a explosão ao morrer - OK
 		8.2.4 - Fazer a explosão se destruir no final da animação - OK
+		
+9 - Pequenos ajustes para 1
+	9.1 - Fazendo o inimigo ao sair da tela - OK
