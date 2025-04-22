@@ -68,3 +68,18 @@
 	
 10 - Criando o background do nosso jogo - OK
 
+11 - Criando o segundo inimigo
+	11.1 - Importando a sprite - OK
+	11.2 - Criando o objeto dele - OK
+	11.3 - Fazendo o inimigo 2 herdar comportamentos do inimigo 1 - OK (OBJETO PAI)
+	11.4 - Fazendo ele mudar de direação ao chegar no meio da room - 
+		11.4.1 - Checando de que lado da room estou - OK
+			11.4.1.1 - Falando se está do lado direito da room - OK
+			11.4.1.2 - Falando se está do lado esquerdo da room - OK
+	11.5 - Fazer ele mudar de direção se ele já passou 1/3 da tela - OK
+	11.6 - Fazer a mudança de direção apenas uma vez - OK
+	11.7 - Fazendo o inimigo criar o prórpio tiro - 
+	
+12 - Criando o segundo tiro do inimigo
+	12.1 - Importando a sprite - 
+	12.2 - Criando o objeto - 
