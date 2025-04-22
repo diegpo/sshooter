@@ -78,8 +78,10 @@
 			11.4.1.2 - Falando se está do lado esquerdo da room - OK
 	11.5 - Fazer ele mudar de direção se ele já passou 1/3 da tela - OK
 	11.6 - Fazer a mudança de direção apenas uma vez - OK
-	11.7 - Fazendo o inimigo criar o prórpio tiro - 
+	11.7 - Fazendo o inimigo criar o prórpio tiro - OK
+		11.7.1 - Criar a função atirando do inimigo 02 - OK
 	
 12 - Criando o segundo tiro do inimigo
-	12.1 - Importando a sprite - 
-	12.2 - Criando o objeto - 
+	12.1 - Importando a sprite - OK
+	12.2 - Criando o objeto - OK
+	12.3 - Fazendo ele ser filho do tiro 1 - OK
