@@ -85,3 +85,11 @@
 	12.1 - Importando a sprite - OK
 	12.2 - Criando o objeto - OK
 	12.3 - Fazendo ele ser filho do tiro 1 - OK
+	12.4 - Iniciar indo na direção do player - OK
+	12.5 - Apontando para direção do player - OK
+		12.5.1 - Fazer a sprite do tiro ganhar 90 graus - OK
+	12.6 - Indo para a direção do player se ele existir - OK
+
+13 - Criação procedural dos inimigos
+
+14 - Criando o objeto controlador do jogo
