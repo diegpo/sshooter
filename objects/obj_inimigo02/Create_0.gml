@@ -3,6 +3,7 @@
 
 // Inherit the parent event
 event_inherited();
+pontos = 20;
 
 posso_me_mover_para_lado = true;
 

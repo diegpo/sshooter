@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"obj_inimigo02","path":"objects/obj_inimigo02/obj_inimigo02.yy",},"order":2,},
     {"id":{"name":"obj_tiro_player","path":"objects/obj_tiro_player/obj_tiro_player.yy",},"order":1,},
+    {"id":{"name":"obj_control","path":"objects/obj_control/obj_control.yy",},"order":6,},
     {"id":{"name":"obj_tiro_inimigo02","path":"objects/obj_tiro_inimigo02/obj_tiro_inimigo02.yy",},"order":3,},
     {"id":{"name":"spr_tiro_player","path":"sprites/spr_tiro_player/spr_tiro_player.yy",},"order":1,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},

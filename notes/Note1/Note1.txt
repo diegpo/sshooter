@@ -91,5 +91,15 @@
 	12.6 - Indo para a direção do player se ele existir - OK
 
 13 - Criação procedural dos inimigos
+	13.1 - Fazer com que o objeto control crie inimigos de tempo em tempo - OK
+		13.1.1 - Fazendo com que a posição x y dos inimigos seja aleatória - OK
 
 14 - Criando o objeto controlador do jogo
+	14.1 - Ganhando pontos ao destruir o inimigo - OK
+	
+15 - Criando o sistema de pontos 
+	15.1 - Iniciando a variável pontos - OK
+	15.2 - Ganhando pontos so destruir os inimigos - OK
+	15.3 - Rodando o objeto de ganhar pontos se a instancia do objeto control existir - OK
+	15.4 - Fazendo com que inimigos diferentes me façam ganhar pontos diferentes - OK
+	15.5 - Criando uma variável nos inimigos, que define quantos pontos darão - OK
