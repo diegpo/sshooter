@@ -103,3 +103,10 @@
 	15.3 - Rodando o objeto de ganhar pontos se a instancia do objeto control existir - OK
 	15.4 - Fazendo com que inimigos diferentes me façam ganhar pontos diferentes - OK
 	15.5 - Criando uma variável nos inimigos, que define quantos pontos darão - OK
+	
+16 - Criando sistema de level
+	16.1 - Iniciando a variável level - OK
+	16.2 - Exibindo level - OK
+	16.3 - Gnahando level ao atingir um determinado numero de pontos - OK
+	16.4 - Dobrando o valor do próximo level, sempre que eu ganhar um level - OK
+	
