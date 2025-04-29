@@ -116,3 +116,4 @@
 	16.3 - Gnahando level ao atingir um determinado numero de pontos - OK
 	16.4 - Dobrando o valor do próximo level, sempre que eu ganhar um level - OK
 	
+17 - Criando os power ups do jogador
