@@ -93,6 +93,10 @@
 13 - Criação procedural dos inimigos
 	13.1 - Fazer com que o objeto control crie inimigos de tempo em tempo - OK
 		13.1.1 - Fazendo com que a posição x y dos inimigos seja aleatória - OK
+	13.2 - Criando inimigos diferentes com base no level do jogo - OK
+	13.3 - Criar ondas de inimigos - OK
+	13.4 - Criar as ondas apenas se não tem mais inimigos no jogo - OK
+	
 
 14 - Criando o objeto controlador do jogo
 	14.1 - Ganhando pontos ao destruir o inimigo - OK
