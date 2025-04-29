@@ -96,6 +96,8 @@
 	13.2 - Criando inimigos diferentes com base no level do jogo - OK
 	13.3 - Criar ondas de inimigos - OK
 	13.4 - Criar as ondas apenas se não tem mais inimigos no jogo - OK
+	13.5 - Criar a quantidade de inimigos com base no level - OK
+	13.6 - Impedindo que inimigos sejma criados no mesmo lugar - OK
 	
 
 14 - Criando o objeto controlador do jogo

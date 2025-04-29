@@ -19,7 +19,8 @@ instance_create_layer(xx, yy, "Inimigos", inimigo);
 //Repetindo o mesmo código
 //Se não existir obj inimigo 01, ou qualquer filho dele
 if(!instance_exists(obj_inimigo01)){
-	repeat(10){
+	var repetir = 10 * level;
+	repeat(repetir){
 		cria_inimigo();
 	}
 }
